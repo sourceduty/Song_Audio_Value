@@ -29,6 +29,10 @@ The track is a 3-minute, 29-second remix of "My Life Be Like (Ooh Ahh)" by Grits
 In terms of marketability, the track benefits from the recognizable "Ooh Ahh" vocal hook, combined with trap-style production that has widespread appeal across mainstream EDM and hip-hop fans. The remix's quality is solid, though its reliance on an established hook limits its originality slightly. However, the energy level and dynamic drops can resonate well in party or workout playlists. Overall, this track earns a 7.5/10 in terms of production quality, market fit, and listening experience.
 
 #
+
+> Alex: "*I think my songs sucks but AI thinks it's better than others.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
