@@ -30,7 +30,7 @@ In terms of marketability, the track benefits from the recognizable "Ooh Ahh" vo
 
 #
 
-> Alex: "*I think my songs sucks but AI thinks it's better than others.*"
+> Alex: "*I think my remixed song sucks but AI thinks it's better than others.*"
 
 #
 ### Related Links
