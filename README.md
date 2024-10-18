@@ -25,6 +25,8 @@ Overall Rating: 7.8/10
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Lyrics Collage](https://github.com/sourceduty/Lyrics_Collage)
+<br>
+[Sound](https://github.com/sourceduty/Sound)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
