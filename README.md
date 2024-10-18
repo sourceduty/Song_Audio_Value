@@ -12,6 +12,8 @@ Additionally, the GPT offers strategic advice on areas such as licensing, royalt
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Lyrics Collage](https://github.com/sourceduty/Lyrics_Collage)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
